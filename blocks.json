@@ -30,27 +30,19 @@
   "values": {
     "default": {
       "siteProperties": {
-        "feedDomainURL": "http://localhost",
-        "resizerURL": "http://localhost/resizer",
-        "feedTitle": "Outbound Feeds",
+        "feedDomainURL": "",
+        "resizerURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net/resizer",
+        "feedTitle": "New R7",
         "feedLanguage": "en"
       }
     },
     "sites": {
-      "website1": {
+      "newr7": {
         "siteProperties": {
-          "feedDomainURL": "https://www.website1.com",
-          "resizerURL": "https://www.website1.com/resizer",
-          "feedTitle": "wwebsite 1",
+          "feedDomainURL": "",
+          "resizerURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net/resizer",
+          "feedTitle": "New R7",
           "feedLanguage": "en"
-        }
-      },
-      "website2": {
-        "siteProperties": {
-          "feedDomainURL": "https://www.website2.com",
-          "resizerURL": "https://www.website2.com/resizer",
-          "feedTitle": "website 2",
-          "feedLanguage": "es"
         }
       }
     }

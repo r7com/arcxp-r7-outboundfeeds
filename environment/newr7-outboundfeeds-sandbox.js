@@ -1,0 +1,4 @@
+module.exports = {
+  resizerKey: "%{AQICAHgyX5gdmS934IGmVttJ5A82hizaJJNzpcYDeuM95pK7ugHfYWy6razhdZFY1x3rDXUdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbjpklnEu15VWypENAgEQgDtLOrAG5GtO2GoCt9hcwjWtzu9vjptl7mScgdTuMgoCVoy0zRJpHC+/p6UCmhCeb7f88YGvNe6yfBlMng==}",
+  BLOCK_DIST_TAG: 'beta',
+}
