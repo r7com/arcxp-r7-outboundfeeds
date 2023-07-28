@@ -37,11 +37,11 @@
       }
     },
     "sites": {
-      "newr7": {
+      "recordtv": {
         "siteProperties": {
           "feedDomainURL": "",
           "resizerURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net/resizer",
-          "feedTitle": "New R7",
+          "feedTitle": "Record TV",
           "feedLanguage": "en"
         }
       }
