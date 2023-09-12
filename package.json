@@ -20,6 +20,7 @@
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "dotenv": "^8.2.0",
     "eslint": "^7.2.0",
     "eslint-config-prettier": "^6.15.0",
@@ -45,5 +46,10 @@
     "@wpmedia/feeds-xml-output": "^0.2.2",
     "jest": "^25.4.0",
     "lodash.get": "^4.4.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
