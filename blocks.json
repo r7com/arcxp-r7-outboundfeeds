@@ -21,6 +21,7 @@
     "@wpmedia/sitemap-video-feature-block",
     "@wpmedia/sitemap-feature-block",
     "@wpmedia/sitemap-index-by-day-feature-block",
+    "@wpmedia/sitemap-index-feature-block",
     "@wpmedia/sitemap-section-feature-block",
     "@wpmedia/sitemap-section-index-feature-block",
     "@wpmedia/json-output-block",
@@ -30,7 +31,7 @@
   "values": {
     "default": {
       "siteProperties": {
-        "feedDomainURL": "",
+        "feedDomainURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net",
         "resizerURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net/resizer",
         "feedTitle": "New R7",
         "feedLanguage": "en"
@@ -39,9 +40,33 @@
     "sites": {
       "recordtv": {
         "siteProperties": {
-          "feedDomainURL": "",
+          "feedDomainURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net",
           "resizerURL": "https://newr7-recordtv-sandbox.web.arc-cdn.net/resizer",
           "feedTitle": "Record TV",
+          "feedLanguage": "en"
+        }
+      },
+      "entretenimento": {
+        "siteProperties": {
+          "feedDomainURL": "https://newr7-entretenimento-sandbox.web.arc-cdn.net",
+          "resizerURL": "https://newr7-entretenimento-sandbox.web.arc-cdn.net/resizer",
+          "feedTitle": "R7 Entretenimento",
+          "feedLanguage": "en"
+        }
+      },
+      "esportes": {
+        "siteProperties": {
+          "feedDomainURL": "https://newr7-esportes-sandbox.web.arc-cdn.net",
+          "resizerURL": "https://newr7-esportes-sandbox.web.arc-cdn.net/resizer",
+          "feedTitle": "R7 Esporte",
+          "feedLanguage": "en"
+        }
+      },
+      "new-r7": {
+        "siteProperties": {
+          "feedDomainURL": "https://newr7-r7-sandbox.web.arc-cdn.net",
+          "resizerURL": "https://newr7-r7-sandbox.web.arc-cdn.net/resizer",
+          "feedTitle": "R7 Esporte",
           "feedLanguage": "en"
         }
       }
